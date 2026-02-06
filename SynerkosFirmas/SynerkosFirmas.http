@@ -1,0 +1,6 @@
+@SynerkosFirmas_HostAddress = http://localhost:5215
+
+GET {{SynerkosFirmas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
