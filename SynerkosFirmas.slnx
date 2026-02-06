@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Frontend/">
+    <Project Path="SynerkosFirmasClient/SynerkosFirmasClient.csproj" Id="85e9a6d1-bdee-4e80-8706-4f2fb2842d0e" />
+  </Folder>
   <Project Path="SynerkosFirmas/SynerkosFirmas.csproj" />
 </Solution>

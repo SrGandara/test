@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmasclient\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|solutionrelative:synerkosfirmasclient\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|solutionrelative:synerkosfirmas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|solutionrelative:synerkosfirmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmasclient\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|solutionrelative:synerkosfirmasclient\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmasclient\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|solutionrelative:synerkosfirmasclient\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmasclient\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|solutionrelative:synerkosfirmasclient\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmasclient\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|solutionrelative:synerkosfirmasclient\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmasclient\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E9A6D1-BDEE-4E80-8706-4F2FB2842D0E}|SynerkosFirmasClient\\SynerkosFirmasClient.csproj|solutionrelative:synerkosfirmasclient\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmas\\dependencyinjection\\customjwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|solutionrelative:synerkosfirmas\\dependencyinjection\\customjwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|c:\\users\\kike.gandara\\documents\\synerkosfirmas\\synerkosfirmas\\dependencyinjection\\customopenapiinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3A256D-01E3-E0DD-6103-9856DA1BFA7C}|SynerkosFirmas\\SynerkosFirmas.csproj|solutionrelative:synerkosfirmas\\dependencyinjection\\customopenapiinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "SynerkosFirmasClient\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "SynerkosFirmasClient\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:57:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SynerkosFirmas\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SynerkosFirmas\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:57:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReconnectModal.razor",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeDocumentMoniker": "SynerkosFirmasClient\\Components\\Layout\\ReconnectModal.razor",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeToolTip": "SynerkosFirmasClient\\Components\\Layout\\ReconnectModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:53:35.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SynerkosFirmasClient\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SynerkosFirmasClient\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:53:33.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SynerkosFirmasClient\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "SynerkosFirmasClient\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:53:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "SynerkosFirmasClient\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\_Imports.razor",
+              "RelativeToolTip": "SynerkosFirmasClient\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:53:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\App.razor",
+              "RelativeDocumentMoniker": "SynerkosFirmasClient\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmasClient\\Components\\App.razor",
+              "RelativeToolTip": "SynerkosFirmasClient\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:53:21.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomJWTAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\DependencyInjection\\CustomJWTAuthentication.cs",
+              "RelativeDocumentMoniker": "SynerkosFirmas\\DependencyInjection\\CustomJWTAuthentication.cs",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\DependencyInjection\\CustomJWTAuthentication.cs",
+              "RelativeToolTip": "SynerkosFirmas\\DependencyInjection\\CustomJWTAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:49:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomOpenApiInjector.cs",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\DependencyInjection\\CustomOpenApiInjector.cs",
+              "RelativeDocumentMoniker": "SynerkosFirmas\\DependencyInjection\\CustomOpenApiInjector.cs",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\DependencyInjection\\CustomOpenApiInjector.cs",
+              "RelativeToolTip": "SynerkosFirmas\\DependencyInjection\\CustomOpenApiInjector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:49:16.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\Program.cs",
+              "RelativeDocumentMoniker": "SynerkosFirmas\\Program.cs",
+              "ToolTip": "C:\\Users\\kike.gandara\\Documents\\SynerkosFirmas\\SynerkosFirmas\\Program.cs",
+              "RelativeToolTip": "SynerkosFirmas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:27:22.36Z",
+              "EditorCaption": ""
             }
           ]
         }

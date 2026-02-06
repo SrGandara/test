@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SynerkosFirmas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87ecb57c5a8e153fcb73cac44fced08ae8afacf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SynerkosFirmas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SynerkosFirmas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

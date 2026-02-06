@@ -41,3 +41,4 @@ C:\Users\kike.gandara\Documents\SynerkosFirmas\SynerkosFirmas\obj\Debug\net10.0\
 C:\Users\kike.gandara\Documents\SynerkosFirmas\SynerkosFirmas\obj\Debug\net10.0\SynerkosFirmas.pdb
 C:\Users\kike.gandara\Documents\SynerkosFirmas\SynerkosFirmas\obj\Debug\net10.0\SynerkosFirmas.genruntimeconfig.cache
 C:\Users\kike.gandara\Documents\SynerkosFirmas\SynerkosFirmas\obj\Debug\net10.0\ref\SynerkosFirmas.dll
+C:\Users\kike.gandara\Documents\SynerkosFirmas\SynerkosFirmas\obj\Debug\net10.0\SynerkosFirmas.sourcelink.json
